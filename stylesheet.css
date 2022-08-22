@@ -1,0 +1,44 @@
+div{
+    height:800px;
+    color:black;
+    
+    font-size: 30px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+   
+    
+}
+.bigimg{
+    background:url('./library-869061__340.jpg');
+    background-repeat: no-repeat;
+   
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+  
+}
+.smallimg{
+    background:url(./classroom-1699745__340.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.littleimg{
+    background:url(./mansion-4751778__340.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+p{
+    height:150px ;
+    width: 150px;
+}
+.smk{
+    background:linear-gradient(to top,red,blue);
+}
